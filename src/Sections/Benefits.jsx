@@ -1,5 +1,7 @@
 import React from "react";
 import photo from "../assets/logoTest.png";
+import { PiHandCoinsDuotone } from "react-icons/pi";
+import { BsBank } from "react-icons/bs";
 
 const Benefits = () => {
   return (
@@ -15,11 +17,7 @@ const Benefits = () => {
       <div className="relatve pt-20 flex flex-col items-center bg-cyan-50">
         <div className="w-[80%] flex justify-evenly items-center">
           <div className="w-28 aspect-square flex justify-center items-center">
-            <img
-              src="https://vuksainzenjering.com/wp-content/uploads/2021/08/kucica-icon.png"
-              alt="kucica-icon"
-              className="w-24 h-24"
-            />
+            <PiHandCoinsDuotone className="w-24 h-24" />
           </div>
           <div className="w-[35%] text-black">
             <h3 className="text-cyan-600 text-2xl font-thin ">KVALITETNO</h3>
@@ -29,11 +27,7 @@ const Benefits = () => {
             </p>
           </div>
           <div className="w-28 aspect-square flex justify-center items-center">
-            <img
-              src="https://cdn-icons-png.flaticon.com/512/3635/3635987.png"
-              alt="prase-icon"
-              className="w-24 h-24"
-            />
+            <BsBank className="w-24 h-24" />
           </div>
           <div className="w-[35%] text-black">
             <h3 className="text-cyan-600 text-2xl font-thin">POVOLJNO</h3>

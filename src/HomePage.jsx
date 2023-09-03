@@ -8,7 +8,7 @@ import Benefits from "./Sections/Benefits";
 const HomePage = () => {
   return (
     <Layout>
-      <div>
+      <div className="relative z-10">
         <Carousel
           className="w-full h-screen"
           autoplay={true}

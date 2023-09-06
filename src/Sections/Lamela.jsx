@@ -3,19 +3,19 @@ import React from "react";
 const Lamela = () => {
   return (
     <div className="bg-cyan-50 flex flex-col items-center relative">
-      <div className="w-7/12 flex justify-center items-center">
-        <span className="w-40 h-px bg-gray-400"></span>
+      <div className="md:w-7/12 w-3/4 flex justify-center items-center">
+        <span className="md:w-40 h-px bg-gray-400"></span>
         <h1 className="px-4 py-8 text-2xl font-thin text-gray-500">
           ODABERETE ŽELJENI ULAZ
         </h1>
-        <span className="w-40 h-px bg-gray-400"></span>
+        <span className="md:w-40 h-px bg-gray-400"></span>
       </div>
-      <p className="text-xl w-7/12 text-gray-900 text-center">
+      <p className="text-xl w-4/5 md:w-7/12 text-gray-900 text-center">
         Imamo preko 200 stanova u ponudi u Beogradu, na raskrsnici Beranske i
         Bulevara oslobođenja. U ponudi su garsonjere, 1.0, 1.5, 2.0, 2.5, 3.0 i
         4.0 stanovi izrađeni po najnovijim standardima.
       </p>
-      <h3 className="text-2xl font-thin text-center py-4 text-cyan-900">
+      <h3 className="text-2xl w-4/5 font-thin text-center py-4 text-cyan-900">
         Svi stanovi imaju građevinsku dozvolu, lift i podzemnu garažu.
       </h3>
       <div className="flex justify-center py-10">

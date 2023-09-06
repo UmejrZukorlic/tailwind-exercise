@@ -20,7 +20,7 @@ const HomePage = () => {
               alt="1"
               className="h-full w-full object-cover"
             />
-            <div className="absolute translate-x-2/4 translate-y-full inset-0 grid h-1/3 w-1/2 place-items-center bg-cyan-900/75">
+            <div className="absolute translate-x-2/4 translate-y-full  inset-0 grid h-1/3 w-1/2 place-items-center bg-cyan-900/75">
               <div className="w-full text-center md:w-2/4">
                 <Typography
                   variant="h1"
@@ -37,7 +37,7 @@ const HomePage = () => {
               alt="2"
               className="h-full w-full object-cover"
             />
-            <div className="absolute translate-x-2/4 translate-y-full inset-0 grid h-1/3 w-1/2 place-items-center bg-cyan-900/75">
+            <div className="absolute translate-x-2/4 translate-y-full  inset-0 grid h-1/3 w-1/2 place-items-center bg-cyan-900/75">
               <div className="w-full text-center md:w-2/4">
                 <Typography
                   variant="h1"

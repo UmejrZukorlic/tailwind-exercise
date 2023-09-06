@@ -5,6 +5,7 @@ import { IoIosArrowDropright } from "react-icons/io";
 import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { IoArrowUp } from "react-icons/io5";
 import { Drawer, IconButton } from "@material-tailwind/react";
+import { Link } from "react-router-dom";
 const Layout = (props) => {
   const [arrow, setArrow] = useState(false);
   const [arrow2, setArrow2] = useState(false);
@@ -46,26 +47,32 @@ const Layout = (props) => {
           id="nav">
           <img src={photo} alt="slika" className="max-h-24 mx-0" />
           <ul className="w-2/3 list-none  flex justify-center items-center  text-white text-lg font-mono">
-            <li className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all">
-              POCETNA
-            </li>
-            <li className="cursor-pointer border-s-2 border-e-2 px-10 py-1 hover:bg-cyan-800 transition-all">
-              O NAMA
-            </li>
+            <Link to="/">
+              <li className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all">
+                POCETNA
+              </li>
+            </Link>
+            <Link to="/about">
+              <li className="cursor-pointer border-s-2 border-e-2 px-10 py-1 hover:bg-cyan-800 transition-all">
+                O NAMA
+              </li>
+            </Link>
             <li
               className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all"
               onClick={() => {
                 setArrow(!arrow);
                 setArrow2(false);
               }}>
-              <div className="flex items-center active:bg-cyan-90  transition-all">
-                <p>STANOVI U PONUDI</p>
-                {!arrow ? (
-                  <MdKeyboardArrowDown className="text-xl" />
-                ) : (
-                  <MdKeyboardArrowUp className="text-xl" />
-                )}
-              </div>
+              <Link to="/stanovi">
+                <div className="flex items-center active:bg-cyan-90  transition-all">
+                  <p>STANOVI U PONUDI</p>
+                  {!arrow ? (
+                    <MdKeyboardArrowDown className="text-xl" />
+                  ) : (
+                    <MdKeyboardArrowUp className="text-xl" />
+                  )}
+                </div>
+              </Link>
 
               {arrow && (
                 <div className="bg-cyan-900 absolute mt-5 p-2 z-10">
@@ -96,14 +103,16 @@ const Layout = (props) => {
                 setArrow2(!arrow2);
                 setArrow(false);
               }}>
-              <div className=" flex items-center active:bg-cyan-800 transition-all">
-                <p>ULAZI</p>
-                {!arrow2 ? (
-                  <MdKeyboardArrowDown className="text-xl" />
-                ) : (
-                  <MdKeyboardArrowUp className="text-xl" />
-                )}
-              </div>
+              <Link to="/ulazi">
+                <div className=" flex items-center active:bg-cyan-800 transition-all">
+                  <p>ULAZI</p>
+                  {!arrow2 ? (
+                    <MdKeyboardArrowDown className="text-xl" />
+                  ) : (
+                    <MdKeyboardArrowUp className="text-xl" />
+                  )}
+                </div>
+              </Link>
               {arrow2 && (
                 <div className="bg-cyan-900 absolute mt-5 p-2 z-10">
                   <ul>
@@ -117,9 +126,11 @@ const Layout = (props) => {
                 </div>
               )}
             </li>
-            <li className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all">
-              KONTAKT
-            </li>
+            <Link to="/contact">
+              <li className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all">
+                KONTAKT
+              </li>
+            </Link>
           </ul>
         </nav>
       ) : (

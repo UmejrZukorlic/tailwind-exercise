@@ -1,9 +1,9 @@
 import React from "react";
 import { Carousel, Typography } from "@material-tailwind/react";
-import Layout from "./Layout/layout";
-import Headline from "./Sections/Headline";
-import Lamela from "./Sections/Lamela";
-import Benefits from "./Sections/Benefits";
+import Layout from "../Layout/layout";
+import Headline from "../Sections/Headline";
+import Lamela from "../Sections/Lamela";
+import Benefits from "../Sections/Benefits";
 
 const HomePage = () => {
   return (

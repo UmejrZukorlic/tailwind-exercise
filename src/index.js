@@ -4,12 +4,19 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import Layout from "./Layout/layout";
-import HomePage from "./HomePage";
+import HomePage from "./Pages/HomePage";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import ContactPage from "./Pages/ContactPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <HomePage />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/contact" element={<ContactPage />} />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 

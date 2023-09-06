@@ -4,7 +4,7 @@ import { MdKeyboardArrowDown, MdKeyboardArrowUp } from "react-icons/md";
 import { IoIosArrowDropright } from "react-icons/io";
 import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { IoArrowUp } from "react-icons/io5";
-import { Drawer, Button, IconButton } from "@material-tailwind/react";
+import { Drawer, IconButton } from "@material-tailwind/react";
 const Layout = (props) => {
   const [arrow, setArrow] = useState(false);
   const [arrow2, setArrow2] = useState(false);

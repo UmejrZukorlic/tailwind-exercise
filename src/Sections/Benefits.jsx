@@ -6,14 +6,6 @@ import { BsBank } from "react-icons/bs";
 const Benefits = () => {
   return (
     <>
-      <div className="py-8 bg-cyan-900 flex flex-col items-center ">
-        <img src={photo} alt="slika" className="max-h-20 scale-150" />
-        <p className="text-xl text-white font-body w-4/5 text-center">
-          <span className="text-cyan-600">39</span> godina iskustva, sa
-          izgrađenih preko
-          <span className="text-cyan-600"> 400 000 m2</span> stambenog prostora.
-        </p>
-      </div>
       <div className="relatve pt-20 flex flex-col items-center bg-cyan-50">
         <div className="w-[80%] flex flex-col md:flex-row gap-4 md:gap-0 justify-evenly items-center">
           <div className="w-28 aspect-square flex  justify-center items-center">

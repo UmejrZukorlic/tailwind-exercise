@@ -4,6 +4,7 @@ import Layout from "../Layout/layout";
 import Headline from "../Sections/Headline";
 import Lamela from "../Sections/Lamela";
 import Benefits from "../Sections/Benefits";
+import Iskustvo from "../Sections/Iskustvo";
 
 const HomePage = () => {
   return (
@@ -68,6 +69,7 @@ const HomePage = () => {
         </Carousel>
         <Headline />
         <Lamela />
+        <Iskustvo />
         <Benefits />
       </div>
     </Layout>

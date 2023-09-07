@@ -149,8 +149,8 @@ const Layout = (props) => {
             placement="right"
             open={openRight}
             onClose={closeDrawerRight}
-            className="p-4">
-            <div className="h-4/5 mb-6 flex flex-col items-end justify-evenly z-50">
+            className="p-4 bg-cyan-900 text-white">
+            <div className="h-4/5 mb-6 flex flex-col items-end z-50">
               <IconButton
                 variant="text"
                 color="cyan"
@@ -161,7 +161,7 @@ const Layout = (props) => {
                   viewBox="0 0 24 24"
                   strokeWidth={2}
                   stroke="currentColor"
-                  className="h-5 w-5">
+                  className="h-12 w-8">
                   <path
                     strokeLinecap="round"
                     strokeLinejoin="round"
@@ -169,23 +169,38 @@ const Layout = (props) => {
                   />
                 </svg>
               </IconButton>
-              <ul className="h-4/5 list-none flex flex-col items-end justify-between">
-                <li className="cursor-pointer hover:text-cyan-600 transition-all">
-                  POČENTA
-                </li>
-                <li className="cursor-pointer hover:text-cyan-600 transition-all">
-                  O NAMA
-                </li>
-                <li className="cursor-pointer hover:text-cyan-600 transition-all">
-                  STANOVI U PONUD
-                </li>
-                <li className="cursor-pointer hover:text-cyan-600 transition-all">
-                  ULAZI
-                </li>
-                <li className="cursor-pointer hover:text-cyan-600 transition-all">
-                  KOTNAKT
-                </li>
+              <ul className="h-4/5 list-none flex flex-col items-end justify-evenly mt-8 text-xl">
+                <Link to="/">
+                  <li className="cursor-pointer hover:text-cyan-600 transition-all">
+                    POČENTA
+                  </li>
+                </Link>
+                <Link to="/about">
+                  <li className="cursor-pointer hover:text-cyan-600 transition-all">
+                    O NAMA
+                  </li>
+                </Link>
+                <Link to="/stanovi">
+                  <li className="cursor-pointer hover:text-cyan-600 transition-all">
+                    STANOVI U PONUDI
+                  </li>
+                </Link>
+                <Link to="/ulazi">
+                  <li className="cursor-pointer hover:text-cyan-600 transition-all">
+                    ULAZI
+                  </li>
+                </Link>
+                <Link to="/contact">
+                  <li className="cursor-pointer hover:text-cyan-600 transition-all">
+                    KOTNAKT
+                  </li>
+                </Link>
               </ul>
+              <img
+                src={photo}
+                alt="logo"
+                className="bg-cyan-900 absolute bottom-0 right-0"
+              />
             </div>
           </Drawer>
         </nav>

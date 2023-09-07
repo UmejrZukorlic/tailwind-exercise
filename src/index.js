@@ -6,6 +6,7 @@ import HomePage from "./Pages/HomePage";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ContactPage from "./Pages/ContactPage";
 import AboutPage from "./Pages/AboutPage";
+import StanoviPage from "./Pages/StanoviPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -15,6 +16,7 @@ root.render(
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
+        <Route path="/stanovi" element={<StanoviPage />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

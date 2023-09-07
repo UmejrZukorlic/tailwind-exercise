@@ -7,6 +7,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ContactPage from "./Pages/ContactPage";
 import AboutPage from "./Pages/AboutPage";
 import StanoviPage from "./Pages/StanoviPage";
+import UlaziPage from "./Pages/UlaziPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -17,6 +18,7 @@ root.render(
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/stanovi" element={<StanoviPage />} />
+        <Route path="/ulazi" element={<UlaziPage />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

@@ -33,7 +33,6 @@ const Layout = (props) => {
     };
   }, [screenSize]);
 
-  console.log(arrow);
   return (
     <div>
       <div className="fixed z-30 bottom-10 right-10">

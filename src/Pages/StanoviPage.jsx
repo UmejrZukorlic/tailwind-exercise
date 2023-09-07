@@ -3,11 +3,49 @@ import Layout from "../Layout/layout";
 import Benefits from "../Sections/Benefits";
 
 const StanoviPage = () => {
+  const stanovi = [
+    {
+      id: 1,
+      name: "GARSONJERE i JEDNOSOBNI stanovi",
+      imgUrl:
+        "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+    },
+    {
+      id: 2,
+      name: "JEDNOIPOSOBNI stanovi",
+      imgUrl:
+        "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+    },
+    {
+      id: 3,
+      name: "DVOSOBNI stanovi",
+      imgUrl:
+        "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+    },
+    {
+      id: 4,
+      name: "DVOIPOSOBNI stanovi",
+      imgUrl:
+        "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvoiposobni-stanovi.jpg",
+    },
+    {
+      id: 5,
+      name: "TROSOBNI stanovi",
+      imgUrl:
+        "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+    },
+    {
+      id: 6,
+      name: "ČETVOROSOBNI stanovi",
+      imgUrl:
+        "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+    },
+  ];
   return (
     <Layout>
       <div className="relative z-10 bg-cyan-50">
         <div className="py-20 flex lg:flex-row flex-col justify-center items-center gap-10">
-          <div class="lg:w-[40%] mt-10 text-center">
+          <div className="lg:w-[40%] mt-10 text-center">
             <h1 className="text-6xl mb-2">Stanovi u ponudi</h1>
             <h2 className="text-4xl mb-8 text-cyan-600">
               Stanovi u izgradnji ------ --
@@ -47,81 +85,27 @@ const StanoviPage = () => {
             </div>
           </div>
         </div>
-        <div class="flex flex-col items-center bg-cyan-900">
-          <div class="md:w-[80%] pt-20 text-cyan-600 flex justify-center items-center text-center gap-6">
+        <div className="flex flex-col items-center bg-cyan-900">
+          <div className="md:w-[80%] pt-20 text-cyan-600 flex justify-center items-center text-center gap-6">
             <span className="h-0 w-[30%] border border-solid border-cyan-600"></span>
             <h2 className="w-max font-extralight text-2xl">
               Odaberite željenu strukturu stana
             </h2>
             <span className="h-0 w-[30%] border border-solid border-cyan-600"></span>
           </div>
-          <div class="w-[80%] py-8 grid gap-8 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 ">
-            <div
-              class="border-2 border-solid border-cyan-600"
-              onclick="redirectA('./garsonnjereijednosobni/index.html')">
-              <img
-                src="https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
-                alt="stanovi"
-              />
-              <h2 className="text-center text-white text-lg py-2 font-light">
-                GARSONJERE i JEDNOSOBNI stanovi
-              </h2>
-            </div>
-            <div
-              class="border-2 border-solid border-cyan-600"
-              onclick="redirectA('./jednosobni/index.html')">
-              <img
-                src="https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
-                alt="stanovi"
-              />
-              <h2 className="text-center text-white text-lg py-2 font-light">
-                JEDNOSOBNI stanovi
-              </h2>
-            </div>
-            <div
-              class="border-2 border-solid border-cyan-600"
-              onclick="redirectA('./dvosobni/index.html')">
-              <img
-                src="https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
-                alt="stanovi"
-              />
-              <h2 className="text-center text-white text-lg py-2 font-light">
-                DVOSOBNI stanovi
-              </h2>
-            </div>
-            <div
-              class="border-2 border-solid border-cyan-600"
-              onclick="redirectA('./dvoiposobni/index.html')">
-              <img
-                src="https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
-                alt="stanovi"
-              />
-              <h2 className="text-center text-white text-lg py-2 font-light">
-                DVOIPOSOBNI stanovi
-              </h2>
-            </div>
-            <div
-              class="border-2 border-solid border-cyan-600"
-              onclick="redirectA('./trosobni/index.html')">
-              <img
-                src="https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
-                alt="stanovi"
-              />
-              <h2 className="text-center text-white text-lg py-2 font-light">
-                TROSOBNI stanovi
-              </h2>
-            </div>
-            <div
-              class="border-2 border-solid border-cyan-600"
-              onclick="redirectA('./cetvorosobni/index.html')">
-              <img
-                src="https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
-                alt="stanovi"
-              />
-              <h2 className="text-center text-white text-lg py-2 font-light">
-                ČETVOROSOBNI stanovi
-              </h2>
-            </div>
+          <div className="w-[80%] py-8 grid gap-8 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 ">
+            {stanovi.map((stan) => {
+              return (
+                <div
+                  key={stan.id}
+                  className="border-2 border-solid border-cyan-600">
+                  <img src={stan.imgUrl} alt="stanovi" />
+                  <h2 className="text-center text-white text-lg py-2 font-light">
+                    {stan.name}
+                  </h2>
+                </div>
+              );
+            })}
           </div>
         </div>
         <Benefits />

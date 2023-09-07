@@ -1,5 +1,4 @@
 import React from "react";
-import photo from "../assets/logoTest.png";
 import { PiHandCoinsDuotone } from "react-icons/pi";
 import { BsBank } from "react-icons/bs";
 

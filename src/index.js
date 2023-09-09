@@ -2,12 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-import HomePage from "./Pages/HomePage";
+import HomePage from "./components/Pages/HomePage";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import ContactPage from "./Pages/ContactPage";
-import AboutPage from "./Pages/AboutPage";
-import StanoviPage from "./Pages/StanoviPage";
-import UlaziPage from "./Pages/UlaziPage";
+import ContactPage from "./components/Pages/ContactPage";
+import AboutPage from "./components/Pages/AboutPage";
+import StanoviPage from "./components/Pages/StanoviPage";
+import UlaziPage from "./components/Pages/UlaziPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

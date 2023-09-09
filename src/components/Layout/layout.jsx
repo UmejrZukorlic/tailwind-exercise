@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import photo from "../assets/logoTest.png";
+import photo from "../../assets/logoTest.png";
 import { MdKeyboardArrowDown, MdKeyboardArrowUp } from "react-icons/md";
 import { IoIosArrowDropright } from "react-icons/io";
 import { BsInstagram, BsFacebook } from "react-icons/bs";

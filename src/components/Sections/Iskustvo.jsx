@@ -1,5 +1,5 @@
 import React from "react";
-import photo from "../assets/logoTest.png";
+import photo from "../../assets/logoTest.png";
 
 const Iskustvo = () => {
   return (

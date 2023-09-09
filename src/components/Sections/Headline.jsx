@@ -1,5 +1,5 @@
 import React from "react";
-import photo from "../assets/logoTest.png";
+import photo from "../../assets/logoTest.png";
 import { useNavigate } from "react-router-dom";
 const Headline = () => {
   const navigate = useNavigate();
@@ -25,12 +25,18 @@ const Headline = () => {
         </p>
       </div>
       <div className="my-6 w-2/3 flex md:flex-row flex-col gap-2 md:gap-0 items-center justify-evenly">
-        <button className="py-4 px-8 md:w-4/12 w-full  border-0 bg-cyan-700 text-white text-md font-body  transition-all hover:bg-cyan-400" 
-        onClick={() => { navigate("/stanovi") }}>
+        <button
+          className="py-4 px-8 md:w-4/12 w-full  border-0 bg-cyan-700 text-white text-md font-body  transition-all hover:bg-cyan-400"
+          onClick={() => {
+            navigate("/stanovi");
+          }}>
           STANOVI U PONUDI
         </button>
-        <button className="py-4 px-8 md:w-4/12 w-full border-0 bg-cyan-700 text-white text-md font-body  transition-all hover:bg-cyan-400" 
-        onClick={() => { navigate("/about") }}>
+        <button
+          className="py-4 px-8 md:w-4/12 w-full border-0 bg-cyan-700 text-white text-md font-body  transition-all hover:bg-cyan-400"
+          onClick={() => {
+            navigate("/about");
+          }}>
           OPŠIRNIJE O NAMA
         </button>
       </div>

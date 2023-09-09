@@ -5,7 +5,8 @@ import { IoIosArrowDropright } from "react-icons/io";
 import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { IoArrowUp } from "react-icons/io5";
 import { Drawer, IconButton } from "@material-tailwind/react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
+
 const Layout = (props) => {
   const [arrow, setArrow] = useState(false);
   const [arrow2, setArrow2] = useState(false);
@@ -33,6 +34,8 @@ const Layout = (props) => {
     };
   }, [screenSize]);
 
+  const navigate = useNavigate();
+
   return (
     <div>
       <div className="fixed z-30 bottom-10 right-10">
@@ -42,7 +45,7 @@ const Layout = (props) => {
       </div>
       {screenSize.width > 860 ? (
         <nav
-          className=" w-full flex justify-between items-center px-10 py-1 bg-cyan-900 relative z-10"
+          className=" w-full flex justify-between items-center px-10 py-1 bg-cyan-900 relative z-20"
           id="nav">
           <img src={photo} alt="slika" className="max-h-24 mx-0" />
           <ul className="w-2/3 list-none  flex justify-center items-center  text-white text-lg font-mono">
@@ -57,24 +60,26 @@ const Layout = (props) => {
               </li>
             </Link>
             <li
-              className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all"
-              onClick={() => {
+              className="cursor-pointer px-10 py-1 hover:bg-cyan-800 transition-all "
+              onClick={(e) => {
                 setArrow(!arrow);
                 setArrow2(false);
+                console.log(arrow);
+              }}
+              onDoubleClick={() => {
+                navigate("/stanovi");
               }}>
-              <Link to="/stanovi">
-                <div className="flex items-center active:bg-cyan-90  transition-all">
-                  <p>STANOVI U PONUDI</p>
-                  {!arrow ? (
-                    <MdKeyboardArrowDown className="text-xl" />
-                  ) : (
-                    <MdKeyboardArrowUp className="text-xl" />
-                  )}
-                </div>
-              </Link>
+              <div className="flex items-center active:bg-cyan-90  transition-all">
+                <p>STANOVI U PONUDI</p>
+                {!arrow ? (
+                  <MdKeyboardArrowDown className="text-xl" />
+                ) : (
+                  <MdKeyboardArrowUp className="text-xl" />
+                )}
+              </div>
 
-              {arrow && (
-                <div className="bg-cyan-900 absolute mt-5 p-2 z-10">
+              {arrow ? (
+                <div className="bg-cyan-900 absolute mt-5 p-2 z-50">
                   <ul>
                     <li> </li>
                     <li className="cursor-pointer py-1 px-3 hover:bg-cyan-800 transition-all">
@@ -94,26 +99,27 @@ const Layout = (props) => {
                     </li>
                   </ul>
                 </div>
-              )}
+              ) : null}
             </li>
             <li
               className="cursor-pointer px-10 py-1 border-s-2 border-e-2 hover:bg-cyan-800 transition-all"
               onClick={() => {
                 setArrow2(!arrow2);
                 setArrow(false);
+              }}
+              onDoubleClick={() => {
+                navigate("/ulazi");
               }}>
-              <Link to="/ulazi">
-                <div className=" flex items-center active:bg-cyan-800 transition-all">
-                  <p>ULAZI</p>
-                  {!arrow2 ? (
-                    <MdKeyboardArrowDown className="text-xl" />
-                  ) : (
-                    <MdKeyboardArrowUp className="text-xl" />
-                  )}
-                </div>
-              </Link>
+              <div className=" flex items-center active:bg-cyan-800 transition-all">
+                <p>ULAZI</p>
+                {!arrow2 ? (
+                  <MdKeyboardArrowDown className="text-xl" />
+                ) : (
+                  <MdKeyboardArrowUp className="text-xl" />
+                )}
+              </div>
               {arrow2 && (
-                <div className="bg-cyan-900 absolute mt-5 p-2 z-10">
+                <div className="bg-cyan-900 absolute mt-5 p-2 z-50">
                   <ul>
                     <li className="cursor-pointer w-40 py-1 px-3 hover:bg-cyan-800 transition-all">
                       ULAZ A{" "}

@@ -8,18 +8,23 @@ import ContactPage from "./components/Pages/ContactPage";
 import AboutPage from "./components/Pages/AboutPage";
 import StanoviPage from "./components/Pages/StanoviPage";
 import UlaziPage from "./components/Pages/UlaziPage";
+import UlazStanSelectPage from "./components/Pages/UlazStanSelectPage";
+import Context from "./components/context";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/about" element={<AboutPage />} />
-        <Route path="/contact" element={<ContactPage />} />
-        <Route path="/stanovi" element={<StanoviPage />} />
-        <Route path="/ulazi" element={<UlaziPage />} />
-      </Routes>
+      <Context>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/about" element={<AboutPage />} />
+          <Route path="/contact" element={<ContactPage />} />
+          <Route path="/stanovi" element={<StanoviPage />} />
+          <Route path="/ulazi" element={<UlaziPage />} />
+          <Route path="/ulazi/select-stan" element={<UlazStanSelectPage />} />
+        </Routes>
+      </Context>
     </BrowserRouter>
   </React.StrictMode>
 );

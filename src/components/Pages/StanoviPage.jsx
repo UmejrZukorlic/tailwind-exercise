@@ -1,9 +1,12 @@
-import React from "react";
+import React, { useContext } from "react";
 import Layout from "../Layout/layout";
 import Benefits from "../Sections/Benefits";
 import StanTypeSelection from "../Sections/StanTypeSelection";
+import { Link } from "react-router-dom";
+import { StanContext } from "../context";
 
 const StanoviPage = () => {
+  const { setUlaz } = useContext(StanContext);
   return (
     <Layout>
       <div className="relative z-10 bg-cyan-50">
@@ -26,25 +29,37 @@ const StanoviPage = () => {
             </p>
           </div>
           <div className="lg:w-[40%] w-[80%] flex justify-center py-10">
-            <div className="w-1/2 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white ">
-              <img
-                src="https://cdn.pixabay.com/photo/2017/03/26/16/06/exzenterhaus-2175925_1280.jpg"
-                alt="sliak1"
-                className="w-screen scale-x-125 h-3/4 skew-x-[-12deg]"
-              />
-              <h1 className="h-1/4 text-3xl flex justify-center items-center skew-x-[-12deg]">
-                ULAZ A
-              </h1>
+            <div
+              className="w-1/2 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white"
+              onClick={() => {
+                setUlaz("A");
+              }}>
+              <Link to="/ulazi/select-stan">
+                <img
+                  src="https://cdn.pixabay.com/photo/2017/03/26/16/06/exzenterhaus-2175925_1280.jpg"
+                  alt="sliak1"
+                  className="w-screen scale-x-125 h-3/4 skew-x-[-12deg]"
+                />
+                <h1 className="h-1/4 text-3xl flex justify-center items-center skew-x-[-12deg]">
+                  ULAZ A
+                </h1>
+              </Link>
             </div>
-            <div className="w-1/2 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white">
-              <img
-                src="https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_1280.jpg"
-                alt="slika 2"
-                className="w-screen scale-x-125 h-3/4 skew-x-[-12deg]"
-              />
-              <h1 className="h-1/4 text-3xl flex justify-center items-center skew-x-[-12deg]">
-                ULAZ B
-              </h1>
+            <div
+              className="w-1/2 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white"
+              onClick={() => {
+                setUlaz("B");
+              }}>
+              <Link to="/ulazi/select-stan">
+                <img
+                  src="https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_1280.jpg"
+                  alt="slika 2"
+                  className="w-screen scale-x-125 h-3/4 skew-x-[-12deg]"
+                />
+                <h1 className="h-1/4 text-3xl flex justify-center items-center skew-x-[-12deg]">
+                  ULAZ B
+                </h1>
+              </Link>
             </div>
           </div>
         </div>

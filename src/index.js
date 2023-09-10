@@ -10,6 +10,7 @@ import StanoviPage from "./components/Pages/StanoviPage";
 import UlaziPage from "./components/Pages/UlaziPage";
 import UlazStanSelectPage from "./components/Pages/UlazStanSelectPage";
 import Context from "./components/context";
+import StanNumberSelectPage from "./components/Pages/StanNumberSelectPage";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -23,6 +24,7 @@ root.render(
           <Route path="/stanovi" element={<StanoviPage />} />
           <Route path="/ulazi" element={<UlaziPage />} />
           <Route path="/ulazi/select-stan" element={<UlazStanSelectPage />} />
+          <Route path="/stanovi-listing" element={<StanNumberSelectPage />} />
         </Routes>
       </Context>
     </BrowserRouter>

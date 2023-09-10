@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const StanTypeSelection = () => {
   const stanovi = [
@@ -44,10 +45,12 @@ const StanTypeSelection = () => {
       {stanovi.map((stan) => {
         return (
           <div key={stan.id} className="border-2 border-solid border-cyan-600">
-            <img src={stan.imgUrl} alt="stanovi" />
-            <h2 className="text-center text-white text-lg py-2 font-light">
-              {stan.name}
-            </h2>
+            <Link to="/stanovi-listing">
+              <img src={stan.imgUrl} alt="stanovi" />
+              <h2 className="text-center text-white text-lg py-2 font-light">
+                {stan.name}
+              </h2>
+            </Link>
           </div>
         );
       })}

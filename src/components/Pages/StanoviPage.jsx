@@ -9,11 +9,11 @@ const StanoviPage = () => {
   const { setUlaz } = useContext(StanContext);
   return (
     <Layout>
-      <div className="relative z-10 bg-cyan-50">
+      <div className="relative z-10 bg-teal-50">
         <div className="py-20 flex lg:flex-row flex-col justify-center items-center gap-10">
           <div className="lg:w-[40%] mt-10 text-center">
             <h1 className="text-6xl mb-2">Stanovi u ponudi</h1>
-            <h2 className="text-4xl mb-8 text-cyan-600">
+            <h2 className="text-4xl mb-8 text-teal-600">
               Stanovi u izgradnji ------ --
             </h2>
             <p className="text-justify mb-2 text-xl px-8">
@@ -30,7 +30,7 @@ const StanoviPage = () => {
           </div>
           <div className="lg:w-[40%] w-[80%] flex justify-center py-10">
             <div
-              className="w-1/2 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white"
+              className="w-1/2 rounded border-2 border-teal-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-teal-900 hover:text-white"
               onClick={() => {
                 setUlaz("A");
               }}>
@@ -46,7 +46,7 @@ const StanoviPage = () => {
               </Link>
             </div>
             <div
-              className="w-1/2 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white"
+              className="w-1/2 rounded border-2 border-teal-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-teal-900 hover:text-white"
               onClick={() => {
                 setUlaz("B");
               }}>
@@ -63,13 +63,13 @@ const StanoviPage = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-col items-center bg-cyan-900">
-          <div className="md:w-[80%] pt-20 text-cyan-600 flex justify-center items-center text-center gap-6">
-            <span className="h-0 w-[30%] border border-solid border-cyan-600"></span>
+        <div className="flex flex-col items-center bg-teal-900">
+          <div className="md:w-[80%] pt-20 text-teal-600 flex justify-center items-center text-center gap-6">
+            <span className="h-0 w-[30%] border border-solid border-teal-600"></span>
             <h2 className="w-max font-extralight text-2xl">
               Odaberite željenu strukturu stana
             </h2>
-            <span className="h-0 w-[30%] border border-solid border-cyan-600"></span>
+            <span className="h-0 w-[30%] border border-solid border-teal-600"></span>
           </div>
           <StanTypeSelection />
         </div>

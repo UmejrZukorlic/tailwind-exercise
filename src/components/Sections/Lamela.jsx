@@ -5,7 +5,7 @@ import { StanContext } from "../context";
 const Lamela = () => {
   const { setUlaz } = useContext(StanContext);
   return (
-    <div className="bg-cyan-50 flex flex-col items-center relative">
+    <div className="bg-teal-50 flex flex-col items-center relative">
       <div className="md:w-7/12 w-3/4 flex justify-center items-center">
         <span className="md:w-40 h-px bg-gray-400"></span>
         <h1 className="px-4 py-8 text-2xl font-thin text-gray-500">
@@ -18,12 +18,12 @@ const Lamela = () => {
         Bulevara oslobođenja. U ponudi su garsonjere, 1.0, 1.5, 2.0, 2.5, 3.0 i
         4.0 stanovi izrađeni po najnovijim standardima.
       </p>
-      <h3 className="text-2xl w-4/5 font-thin text-center py-4 text-cyan-900">
+      <h3 className="text-2xl w-4/5 font-thin text-center py-4 text-teal-900">
         Svi stanovi imaju građevinsku dozvolu, lift i podzemnu garažu.
       </h3>
       <div className="flex justify-center py-10">
         <div
-          className="w-1/3 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white "
+          className="w-1/3 rounded border-2 border-teal-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-teal-900 hover:text-white "
           onClick={() => {
             setUlaz("A");
           }}>
@@ -39,7 +39,7 @@ const Lamela = () => {
           </Link>
         </div>
         <div
-          className="w-1/3 rounded border-2 border-cyan-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-cyan-900 hover:text-white"
+          className="w-1/3 rounded border-2 border-teal-900 skew-x-12 border-solid overflow-hidden transition-all hover:bg-teal-900 hover:text-white"
           onClick={() => {
             setUlaz("B");
           }}>

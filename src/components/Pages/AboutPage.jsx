@@ -5,16 +5,16 @@ import photo from "../../assets/logoTest.png";
 const AboutPage = () => {
   return (
     <Layout>
-      <div className="flex flex-col items-center relative z-10 bg-cyan-50">
+      <div className="flex flex-col items-center relative z-10 bg-teal-50">
         <div className="w-[80%] flex flex-col items-center py-12  mt-20 md:mt-0 ">
           <div className="w-full flex justify-center items-center gap-8 text-center">
             <span className="w-[30%] border-b border-solid border-b-gray-700 hidden md:block"></span>
-            <h2 className="md:text-4xl text-3xl font-thin text-cyan-900">
+            <h2 className="md:text-4xl text-3xl font-thin text-teal-900">
               Građevinska firma
             </h2>
             <span className="w-[30%] border-b border-solid border-b-gray-700 hidden md:block"></span>
           </div>
-          <h1 className="m-5 md:text-5xl text-4xl text-center text-cyan-600">
+          <h1 className="m-5 md:text-5xl text-4xl text-center text-teal-600">
             BAJROVIĆ GROUP D.O.O.
           </h1>
         </div>
@@ -31,7 +31,7 @@ const AboutPage = () => {
               materijala, pa se može pohvaliti primenom opeke – sendvič fasadnih
               zidova, što obezbeđuje maksimalan kvalitet.
             </p>
-            <p className="text-justify text-xl mx-2 text-cyan-600">
+            <p className="text-justify text-xl mx-2 text-teal-600">
               Firma je osnovana kao građevinska zanatska radnja još 1975.
               godine, a od 2004. godine je registrovana kao društvo za
               građevinske poslove. Zahvaljujući proširivanju aktivnosti razvilo
@@ -51,14 +51,14 @@ const AboutPage = () => {
           />
         </div>
       </div>
-      <div className=" w-full bg-cyan-900 pt-20 pb-8 flex md:flex-row flex-col justify-center items-center relative z-10">
+      <div className=" w-full bg-teal-900 pt-20 pb-8 flex md:flex-row flex-col justify-center items-center relative z-10">
         <img
           src={photo}
           alt="logo"
           className="max-h-36 absolute top-14 left-1/2 -translate-x-1/2 -translate-y-1/2 z-50"
         />
         <div className="md:w-1/2 w-[95%] pt-8">
-          <h1 className="text-cyan-400 ml-4 mb-4 text-3xl text-center md:text-start">
+          <h1 className="text-teal-400 ml-4 mb-4 text-3xl text-center md:text-start">
             Kvalitetno | Sigurno | Povoljno
           </h1>
           <p className="text-xl  text-gray-200 text-justify leading-2 py-2 px-4">
@@ -70,7 +70,7 @@ const AboutPage = () => {
             Vojvode Vlahović…Trenutnim aktivnostima obuhvaćeno je oko 65 000m2
             poslovnog i stambenog prostora u izgradnji i delom u pripremi.
           </p>
-          <p className="text-xl  text-cyan-400 text-justify leading-2 py-2 px-4">
+          <p className="text-xl  text-teal-400 text-justify leading-2 py-2 px-4">
             Trenutno smo okrenuti izgradnji objekata u Naselju Braće Jerković,
             Ul. Vojvode Vlahović, koja je jedna od urbanih lokacija u zoni grada
             koja je u razvitku kako za život, tako i za poslovanje.
@@ -85,7 +85,7 @@ const AboutPage = () => {
         <div className="md:w-[30%] w-full flex justify-center">
           <div className="w-80 border border-aliceblue py-4 px-0 flex flex-col items-center text-gray-50 text-xl">
             <p>Podaci o firmi:</p>
-            <p className="text-cyan-400">BAJROVIĆ GROUP D.O.O.</p>
+            <p className="text-teal-400">BAJROVIĆ GROUP D.O.O.</p>
             <p>Generala Zivkovica 23,</p>
             <p>36300 Novi Pazar</p>
             <p>Matični br.: 21876097</p>
@@ -93,16 +93,16 @@ const AboutPage = () => {
             <p>
               <a
                 href="https://pretraga2.apr.gov.rs/EnterpriseWebSearchWeb/Details/Details?beid=13126369&rnd=F952AFFDD9C71E86C5BE50C938FBEC8C03FDE738"
-                className="text-cyan-400 no-underline">
+                className="text-teal-400 no-underline">
                 Link ka APRu
               </a>
             </p>
           </div>
         </div>
       </div>
-      <div className="py-20 text-center relative z-10 bg-cyan-50">
+      <div className="py-20 text-center relative z-10 bg-teal-50">
         <h1 className=" text-3xl font-thin">
-          Do danas, <span className="text-cyan-600"> preko 4300</span> ljudi već
+          Do danas, <span className="text-teal-600"> preko 4300</span> ljudi već
           živi u domovima koje smo im mi napravili.
         </h1>
       </div>

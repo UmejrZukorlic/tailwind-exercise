@@ -5,19 +5,22 @@
         "id": 1,
         "name": "stan 1",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 3",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 5",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "jednoiposobni stanovi": [
@@ -25,19 +28,22 @@
         "id": 1,
         "name": "stan 4",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 9",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 6",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "dvosobni stanovi": [
@@ -45,19 +51,22 @@
         "id": 1,
         "name": "stan 23",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 25",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 45",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "dvoiposobni stanovi": [
@@ -65,19 +74,22 @@
         "id": 1,
         "name": "stan 43",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 53",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 22",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "trosobni stanovi": [
@@ -85,19 +97,22 @@
         "id": 1,
         "name": "stan 13",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 34",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 15",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "cetvorosobni stanovi": [
@@ -105,19 +120,22 @@
         "id": 1,
         "name": "stan 42",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 29",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 27",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       }
     ]
   },
@@ -127,19 +145,22 @@
         "id": 1,
         "name": "stan 1",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 3",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 5",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "jednoiposobni stanovi": [
@@ -147,19 +168,22 @@
         "id": 1,
         "name": "stan 4",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 9",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 6",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "dvosobni stanovi": [
@@ -167,19 +191,22 @@
         "id": 1,
         "name": "stan 23",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 25",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 45",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "dvoiposobni stanovi": [
@@ -187,19 +214,22 @@
         "id": 1,
         "name": "stan 43",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 53",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 22",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "trosobni stanovi": [
@@ -207,19 +237,22 @@
         "id": 1,
         "name": "stan 13",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 34",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 15",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
+        "površinaStana": "25,63"
       }
     ],
     "cetvorosobni stanovi": [
@@ -227,19 +260,22 @@
         "id": 1,
         "name": "stan 42",
         "sprat": 1,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 2,
         "name": "stan 29",
         "sprat": 2,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       },
       {
         "id": 3,
         "name": "stan 27",
         "sprat": 3,
-        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg"
+        "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
+        "površinaStana": "25,63"
       }
     ]
   }

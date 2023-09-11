@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Link } from "react-router-dom";
+import { StanContext } from "../context";
 
 const StanTypeSelection = () => {
+  const { setStanType } = useContext(StanContext);
   const stanovi = [
     {
       id: 1,
@@ -44,7 +46,12 @@ const StanTypeSelection = () => {
     <div className="w-[80%] py-8 grid gap-8 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 ">
       {stanovi.map((stan) => {
         return (
-          <div key={stan.id} className="border-2 border-solid border-cyan-600">
+          <div
+            key={stan.id}
+            className="border-2 border-solid border-teal-600"
+            onClick={() => {
+              setStanType(stan.name);
+            }}>
             <Link to="/stanovi-listing">
               <img src={stan.imgUrl} alt="stanovi" />
               <h2 className="text-center text-white text-lg py-2 font-light">

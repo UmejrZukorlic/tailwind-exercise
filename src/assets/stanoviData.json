@@ -6,21 +6,63 @@
         "name": "stan 1",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 3",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 5",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "jednoiposobni stanovi": [
@@ -29,21 +71,63 @@
         "name": "stan 4",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 9",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 6",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "dvosobni stanovi": [
@@ -52,21 +136,63 @@
         "name": "stan 23",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 25",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 45",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "dvoiposobni stanovi": [
@@ -75,21 +201,63 @@
         "name": "stan 43",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 53",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 22",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "trosobni stanovi": [
@@ -98,21 +266,63 @@
         "name": "stan 13",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 34",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 15",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "cetvorosobni stanovi": [
@@ -121,21 +331,63 @@
         "name": "stan 42",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 29",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 27",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ]
   },
@@ -146,21 +398,63 @@
         "name": "stan 1",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 3",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 5",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "jednoiposobni stanovi": [
@@ -169,21 +463,63 @@
         "name": "stan 4",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 9",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 6",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/jednoiposobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "dvosobni stanovi": [
@@ -192,21 +528,63 @@
         "name": "stan 23",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 25",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 45",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "dvoiposobni stanovi": [
@@ -215,21 +593,63 @@
         "name": "stan 43",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 53",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 22",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "trosobni stanovi": [
@@ -238,21 +658,63 @@
         "name": "stan 13",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 34",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 15",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/garsonjere-i-jednosobni-stanovi.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ],
     "cetvorosobni stanovi": [
@@ -261,21 +723,63 @@
         "name": "stan 42",
         "sprat": 1,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 2,
         "name": "stan 29",
         "sprat": 2,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       },
       {
         "id": 3,
         "name": "stan 27",
         "sprat": 3,
         "imgUrl": "https://vuksainzenjering.com/wp-content/uploads/2021/07/dvosobni-18.jpg",
-        "površinaStana": "25,63"
+        "površinaStana": "25,63",
+        "3dPrikaz": "https://vuksainzenjering.com/wp-content/uploads/2021/07/3d-prikaz-stana-6.jpg",
+        "orijentacijaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/ORJENTACIJA-stana-5.jpg",
+        "rasporedProstorija": "https://vuksainzenjering.com/wp-content/uploads/2021/07/raspored-prostorija-6.jpg",
+        "osnovaStana": "https://vuksainzenjering.com/wp-content/uploads/2021/07/struktura-stana-6.jpg",
+        "kvadraturaProstorija": {
+          "ulaz": {
+            "raspored": 1,
+            "povrsina": 3.99,
+            "obim": 8.85,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          }
+        }
       }
     ]
   }

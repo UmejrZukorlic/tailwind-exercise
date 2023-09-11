@@ -297,14 +297,6 @@ const Layout = (props) => {
                   className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
                   href="/">
                   <IoIosArrowDropright />
-                  <p>Naše zgrade</p>
-                </a>
-              </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
-                  <IoIosArrowDropright />
                   <p>Kontakt</p>
                 </a>
               </li>
@@ -386,14 +378,6 @@ const Layout = (props) => {
                   href="/">
                   <IoIosArrowDropright />
                   <p>Ulaz B</p>
-                </a>
-              </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
-                  <IoIosArrowDropright />
-                  <p>Ulaz C</p>
                 </a>
               </li>
             </ul>

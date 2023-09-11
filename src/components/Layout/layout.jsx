@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useContext } from "react";
 import photo from "../../assets/logoTest.png";
 import { MdKeyboardArrowDown, MdKeyboardArrowUp } from "react-icons/md";
 import { IoIosArrowDropright } from "react-icons/io";
@@ -6,12 +6,14 @@ import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { IoArrowUp } from "react-icons/io5";
 import { Drawer, IconButton } from "@material-tailwind/react";
 import { Link, useNavigate } from "react-router-dom";
+import { StanContext } from "../context";
 
 const Layout = (props) => {
   const [arrow, setArrow] = useState(false);
   const [arrow2, setArrow2] = useState(false);
   const [screenSize, setScreenSize] = useState(getCurrentDimension());
   const [openRight, setOpenRight] = useState(false);
+  const { setStanType, setUlaz } = useContext(StanContext);
 
   const openDrawerRight = () => setOpenRight(true);
   const closeDrawerRight = () => setOpenRight(false);
@@ -82,19 +84,49 @@ const Layout = (props) => {
                 <div className="bg-teal-900 absolute mt-5 p-2 z-50">
                   <ul>
                     <li> </li>
-                    <li className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setStanType("garsonjere i jednosobni stanovi");
+                        setUlaz(false);
+                        navigate("/stanovi-listing");
+                      }}>
                       Garsonjere i Jednosobni Stanovi
                     </li>
-                    <li className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setStanType("jednoiposobni stanovi");
+                        setUlaz(false);
+                        navigate("/stanovi-listing");
+                      }}>
                       Jednosobni Stanovi
                     </li>
-                    <li className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setStanType("dvosobni stanovi");
+                        setUlaz(false);
+                        navigate("/stanovi-listing");
+                      }}>
                       Dvosobni Stanovi
                     </li>
-                    <li className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setStanType("dvoiposobni stanovi");
+                        setUlaz(false);
+                        navigate("/stanovi-listing");
+                      }}>
                       Dvoiposobni Stanovi
                     </li>
-                    <li className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setStanType("trosobni stanovi");
+                        setUlaz(false);
+                        navigate("/stanovi-listing");
+                      }}>
                       Trosobni Stanovi
                     </li>
                   </ul>
@@ -121,10 +153,20 @@ const Layout = (props) => {
               {arrow2 && (
                 <div className="bg-teal-900 absolute mt-5 p-2 z-50">
                   <ul>
-                    <li className="cursor-pointer w-40 py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer w-40 py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setUlaz("A");
+                        navigate("/ulazi/select-stan");
+                      }}>
                       ULAZ A{" "}
                     </li>
-                    <li className="cursor-pointer w-40 py-1 px-3 hover:bg-teal-800 transition-all">
+                    <li
+                      className="cursor-pointer w-40 py-1 px-3 hover:bg-teal-800 transition-all"
+                      onClick={() => {
+                        setUlaz("B");
+                        navigate("/ulazi/select-stan");
+                      }}>
                       ULAZ B{" "}
                     </li>
                   </ul>

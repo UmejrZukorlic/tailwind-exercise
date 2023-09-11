@@ -40,6 +40,7 @@ const StanNumberSelectPage = () => {
     console.log(ulaz);
     console.log(lamela);
     console.log(stanArray);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ulaz, lamela, data, type, stanType, dep]);
 
   return (

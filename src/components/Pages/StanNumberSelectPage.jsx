@@ -11,7 +11,7 @@ const StanNumberSelectPage = () => {
   const [lamela, setLamela] = useState(null);
   const [type, setType] = useState();
   const [stanArray, setStanArray] = useState([]);
-
+  const [dep, setDep] = useState(false);
   useEffect(() => {
     if (ulaz === "A") {
       setLamela("lamelaA");
@@ -20,40 +20,41 @@ const StanNumberSelectPage = () => {
     } else {
       setLamela(null);
     }
-  }, [ulaz]);
-  useEffect(() => {
+
     if (lamela) {
       setData(stanoviData[lamela]);
     } else {
       setData(stanoviData);
     }
+
     setType(stanType?.toLowerCase());
-  }, [lamela, data, stanType]);
-  useEffect(() => {
-    if (lamela) {
+
+    if (lamela && type) {
       setStanArray(data[type]);
-    } else {
-      setStanArray(data);
+    } else if (type) {
+      setStanArray(data.lamelaA[type].concat(data.lamelaB[type]));
+      setDep(true);
     }
-    // console.log(type);
-    // console.log(ulaz);
-    // console.log(lamela);
-    // console.log(stanArray);
-  }, [data, type, lamela, stanArray]);
+
+    console.log(type);
+    console.log(ulaz);
+    console.log(lamela);
+    console.log(stanArray);
+  }, [ulaz, lamela, data, type, stanType, dep]);
 
   return (
     <Layout>
       <div className="relative z-10 bg-teal-50 flex flex-col items-center">
         <div className="w-full flex justify-center items-center bg-teal-300 py-12">
           <h1 className="text-white text-4xl bg-t">
-            ULAZ {ulaz} - {stanType?.toUpperCase()}{" "}
+            {ulaz && "ULAZ " + ulaz} - {stanType?.toUpperCase()}{" "}
           </h1>
         </div>
         <div className="w-[80%] py-8 grid gap-8 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 place-items-center">
-          {stanArray?.map((el) => {
+          {stanArray?.map((el, i) => {
             return (
               <div
-                key={el.id}
+                key={i}
                 className="border-2 border-solid border-teal-600 bg-white py-4">
                 <h1 className="text-center text-xl ">
                   {el.name.toUpperCase()}

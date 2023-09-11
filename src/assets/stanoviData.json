@@ -19,6 +19,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -40,6 +72,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -61,6 +125,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -84,6 +180,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -105,6 +233,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -126,6 +286,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -149,6 +341,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -170,6 +394,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -191,6 +447,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -214,6 +502,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -235,6 +555,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -256,6 +608,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -279,6 +663,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -300,6 +716,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -321,6 +769,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -344,6 +824,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -365,6 +877,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -386,6 +930,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -411,6 +987,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -432,6 +1040,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -453,6 +1093,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -476,6 +1148,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -497,6 +1201,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -518,6 +1254,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -541,6 +1309,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -562,6 +1362,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -583,6 +1415,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -606,6 +1470,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -627,6 +1523,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -648,6 +1576,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -671,6 +1631,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -692,6 +1684,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -713,6 +1737,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }
@@ -736,6 +1792,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -757,6 +1845,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       },
@@ -778,6 +1898,38 @@
             "pod": "Ker. pločice | Parket",
             "zid": "Pos. boja",
             "plafon": "Pos. boja"
+          },
+          "kupatilo": {
+            "raspored": 2,
+            "povrsina": 4.15,
+            "obim": 8.16,
+            "pod": "Ker. pločice",
+            "zid": "Ker. pločice",
+            "plafon": "Pos. boja"
+          },
+          "kombinovana_soba": {
+            "raspored": 3,
+            "povrsina": 18.47,
+            "obim": 19.47,
+            "pod": "Ker. pločice | Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "polu_soba": {
+            "raspored": 4,
+            "povrsina": 9.66,
+            "obim": 13.28,
+            "pod": "Parket",
+            "zid": "Pos. boja",
+            "plafon": "Pos. boja"
+          },
+          "terasa": {
+            "raspored": 5,
+            "povrsina": 5.09,
+            "obim": 10.22,
+            "pod": "Ker. pločice",
+            "zid": "Fas. boja",
+            "plafon": "Fas. boja"
           }
         }
       }

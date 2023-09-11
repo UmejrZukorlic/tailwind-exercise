@@ -71,7 +71,13 @@ const StanoviPage = () => {
             </h2>
             <span className="h-0 w-[30%] border border-solid border-teal-600"></span>
           </div>
-          <StanTypeSelection />
+          <div
+            onClick={() => {
+              setUlaz(false);
+            }}
+            className="flex justify-center items-center">
+            <StanTypeSelection />
+          </div>
         </div>
         <Benefits />
       </div>

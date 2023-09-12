@@ -261,44 +261,46 @@ const Layout = (props) => {
             </div>
             <ul className="pt-4 list-none w-full">
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+                <Link
+                  to="/"
+                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Naslovna</p>
-                </a>
+                </Link>
               </li>
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+                <Link
+                  to="/about"
+                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>O nama</p>
-                </a>
+                </Link>
               </li>
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+                <Link
+                  to="/stanovi"
+                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Stanovi u ponudi</p>
-                </a>
+                </Link>
               </li>
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
+                <Link
+                  to="/ulazi"
                   className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
                   href="/">
                   <IoIosArrowDropright />
                   <p>Ulazi</p>
-                </a>
+                </Link>
               </li>
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
+                <Link
+                  to="/contact"
                   className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
                   href="/">
                   <IoIosArrowDropright />
                   <p>Kontakt</p>
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

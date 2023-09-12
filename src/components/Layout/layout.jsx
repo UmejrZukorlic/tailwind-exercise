@@ -287,8 +287,7 @@ const Layout = (props) => {
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <Link
                   to="/ulazi"
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Ulazi</p>
                 </Link>
@@ -296,8 +295,7 @@ const Layout = (props) => {
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <Link
                   to="/contact"
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Kontakt</p>
                 </Link>
@@ -310,53 +308,65 @@ const Layout = (props) => {
             </div>
 
             <ul className="pt-4 list-none">
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all"
+                onClick={() => {
+                  setStanType("garsonjere i jednosobni stanovi");
+                  setUlaz(false);
+                  navigate("/stanovi-listing");
+                }}>
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Garsonjere i jednosobni</p>
-                </a>
+                </div>
               </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                onClick={() => {
+                  setStanType("jednoiposobni stanovi");
+                  setUlaz(false);
+                  navigate("/stanovi-listing");
+                }}
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
-                  <p>Jednosobni</p>
-                </a>
+                  <p>Jednoiposobni</p>
+                </div>
               </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                onClick={() => {
+                  setStanType("dvosobni stanovi");
+                  setUlaz(false);
+                  navigate("/stanovi-listing");
+                }}
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Dvosobni</p>
-                </a>
+                </div>
               </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                onClick={() => {
+                  setStanType("dvoiposobni stanovi");
+                  setUlaz(false);
+                  navigate("/stanovi-listing");
+                }}
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Dvoiposobni</p>
-                </a>
+                </div>
               </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                onClick={() => {
+                  setStanType("trosobni stanovi");
+                  setUlaz(false);
+                  navigate("/stanovi-listing");
+                }}
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Trosobni</p>
-                </a>
-              </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
-                  <IoIosArrowDropright />
-                  <p>Četvorosobni</p>
-                </a>
+                </div>
               </li>
             </ul>
           </div>
@@ -366,21 +376,27 @@ const Layout = (props) => {
             </div>
 
             <ul className="pt-4 list-none">
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all"
+                onClick={() => {
+                  setUlaz("A");
+                  navigate("/ulazi/select-stan");
+                }}>
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Ulaz A</p>
-                </a>
+                </div>
               </li>
-              <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
-                <a
-                  className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600"
-                  href="/">
+              <li
+                className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all"
+                onClick={() => {
+                  setUlaz("B");
+                  navigate("/ulazi/select-stan");
+                }}>
+                <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Ulaz B</p>
-                </a>
+                </div>
               </li>
             </ul>
           </div>

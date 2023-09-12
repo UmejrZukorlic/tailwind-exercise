@@ -47,22 +47,22 @@ const Layout = (props) => {
       </div>
       {screenSize.width > 860 ? (
         <nav
-          className=" w-full flex justify-between items-center px-10 py-1 bg-teal-900 relative z-20"
+          className=" w-screen flex justify-between items-center xl:px-10 px-4 py-1 bg-teal-900 relative z-20"
           id="nav">
           <img src={photo} alt="slika" className="max-h-24 mx-0" />
           <ul className="w-2/3 list-none  flex justify-center items-center  text-white text-lg font-mono">
             <Link to="/">
-              <li className="cursor-pointer px-10 py-1 hover:bg-teal-800 transition-all">
+              <li className="cursor-pointer xl:px-10 px-4 py-1 hover:bg-teal-800 transition-all">
                 POCETNA
               </li>
             </Link>
             <Link to="/about">
-              <li className="cursor-pointer border-s-2 border-e-2 px-10 py-1 hover:bg-teal-800 transition-all">
+              <li className="cursor-pointer border-s-2 border-e-2 xl:px-10 px-4 py-1 hover:bg-teal-800 transition-all">
                 O NAMA
               </li>
             </Link>
             <li
-              className="cursor-pointer px-10 py-1 hover:bg-teal-800 transition-all "
+              className="cursor-pointer xl:px-10 px-4 py-1 hover:bg-teal-800 transition-all "
               onClick={(e) => {
                 setArrow(!arrow);
                 setArrow2(false);
@@ -134,7 +134,7 @@ const Layout = (props) => {
               ) : null}
             </li>
             <li
-              className="cursor-pointer px-10 py-1 border-s-2 border-e-2 hover:bg-teal-800 transition-all"
+              className="cursor-pointer xl:px-10 px-4 py-1 border-s-2 border-e-2 hover:bg-teal-800 transition-all"
               onClick={() => {
                 setArrow2(!arrow2);
                 setArrow(false);
@@ -174,7 +174,7 @@ const Layout = (props) => {
               )}
             </li>
             <Link to="/contact">
-              <li className="cursor-pointer px-10 py-1 hover:bg-teal-800 transition-all">
+              <li className="cursor-pointer xl:px-10 px-4 py-1 hover:bg-teal-800 transition-all">
                 KONTAKT
               </li>
             </Link>
@@ -182,7 +182,7 @@ const Layout = (props) => {
         </nav>
       ) : (
         <nav
-          className=" w-full flex justify-between items-center px-10 py-1 bg-teal-900 fixed top-0 z-30"
+          className=" w-full flex justify-between items-center xl:px-10 px-4 py-1 bg-teal-900 fixed top-0 z-30"
           id="nav">
           <img src={photo} alt="slika" className="max-h-24 mx-0" />
           <div
@@ -254,7 +254,7 @@ const Layout = (props) => {
       )}
       {props.children}
       <footer className="sticky bottom-0 left-0 w-full z-0 bg-teal-900 pt-16">
-        <div className="w-full flex md:flex-row justify-evenly text-white pb-16 flex-col px-10">
+        <div className="w-full flex md:flex-row justify-evenly text-white pb-16 flex-col xl:px-10 px-4">
           <div className="md:w-1/4 w-full">
             <div>
               <h3 className="font-thin text-xl">Navigacija sajta</h3>

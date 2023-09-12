@@ -8,43 +8,43 @@ const StanPage = () => {
   return (
     <Layout>
       <div className="relative z-10 bg-teal-50">
-        <div className="w-full py-12 mt-20 md:mt-0 bg-teal-600 flex justify-center items-center gap-6">
+        <div className="w-full py-12 mt-20 md:mt-0  bg-teal-600 flex justify-center items-center gap-6">
           <h1 className="text-4xl text-white text-center">
             STAN 8, 18, 28, 38, 48 - Jednoiposoban
           </h1>
         </div>
         <div className="p-20 grid lg:grid-cols-2 grid-cols-1 justify-items-center gap-20">
           <div className="text-center lg:w-[80%] w-full ">
-            <h1 className="text-lg w-full p-1.5 text-white bg-teal-600 mb-4">
+            <h1 className="text-2xl w-full p-4 text-white bg-teal-600 mb-4">
               3D PRIKAZ STANA
             </h1>
 
             <img src={fullStan.triDPrikaz} alt="stan" className="w-full" />
           </div>
           <div className="text-center lg:w-[80%] w-full">
-            <h1 className="text-lg w-full p-1.5 text-white bg-teal-600 mb-4">
+            <h1 className="text-2xl w-full p-4 text-white bg-teal-600 mb-4">
               ORIJENTACIJA STANA- ULAZ A
             </h1>
 
             <img src={fullStan.orijentacijaStana} alt="lamela" />
           </div>
           <div className="text-center lg:w-[80%] w-full">
-            <h1 className="text-lg w-full p-1.5 text-white bg-teal-600 mb-4">
+            <h1 className="text-2xl w-full p-4 text-white bg-teal-600 mb-4">
               RASOPRED PROSTORIJA
             </h1>
             <img src={fullStan.rasporedProstorija} alt="rasporedProstorija" />
           </div>
           <div className="text-center lg:w-[80%] w-full">
-            <h1 className="text-lg w-full p-1.5 text-white bg-teal-600 mb-4">
+            <h1 className="text-2xl w-full p-4 text-white bg-teal-600 mb-4">
               OSNOVA STANA
             </h1>
             <img src={fullStan.osnovaStana} alt="osnovaStana" />
           </div>
           <div className="text-center w-[120%]">
-            <h1 className="text-lg w-full p-1.5 text-white bg-teal-600 mb-4">
+            <h1 className="text-2xl w-full p-4 text-white bg-teal-600 mb-4">
               KVADRATURA PROSTORIJA
             </h1>
-            <table className="border border-gray-600 w-full">
+            <table className="border border-gray-600 w-full break-all">
               <tbody>
                 <tr className="border border-gray-600">
                   <td className="border border-gray-600">BROJ</td>
@@ -72,7 +72,7 @@ const StanPage = () => {
             </table>
           </div>
           <div className="text-center lg:w-[80%] w-full">
-            <h1 className="text-lg w-full p-1.5 text-white bg-teal-600 mb-4">
+            <h1 className="text-2xl w-full p-4 text-white bg-teal-600 mb-4">
               DOSTUPNOST STANOVA
             </h1>
             <table className="border border-gray-600 bg-gray-400 w-full">

@@ -6,8 +6,10 @@ export { StanContext };
 const Context = (props) => {
   const [ulaz, setUlaz] = useState();
   const [stanType, setStanType] = useState();
+  const [fullStan, setFullStan] = useState();
   return (
-    <StanContext.Provider value={{ ulaz, setUlaz, stanType, setStanType }}>
+    <StanContext.Provider
+      value={{ ulaz, setUlaz, stanType, setStanType, fullStan, setFullStan }}>
       {props.children}
     </StanContext.Provider>
   );

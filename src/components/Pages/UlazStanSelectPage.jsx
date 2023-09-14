@@ -9,7 +9,7 @@ const UlazStanSelectPage = () => {
   return (
     <Layout>
       <div className="relative z-10 bg-teal-900 flex flex-col justify-center items-center mt-24 md:mt-24  lg:mt-0">
-        <div className="bg-teal-50 py-12 flex justify-center items-center w-full">
+        <div className="bkg py-12 flex justify-center items-center w-full">
           <h1 className="text-4xl text-white font-bold  drop-shadow-lg text">
             ULAZ {ulaz}
           </h1>

@@ -5,7 +5,7 @@ import { StanContext } from "../context";
 const Lamela = () => {
   const { setUlaz } = useContext(StanContext);
   return (
-    <div className="bg-teal-50 flex flex-col items-center relative">
+    <div className="bkg flex flex-col items-center relative">
       <div className="md:w-7/12 w-3/4 flex justify-center items-center">
         <span className="md:w-40 h-px bg-gray-400"></span>
         <h1 className="px-4 py-8 text-2xl font-thin text-gray-500">

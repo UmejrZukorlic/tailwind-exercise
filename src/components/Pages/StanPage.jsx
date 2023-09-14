@@ -7,7 +7,7 @@ const StanPage = () => {
   console.log(fullStan);
   return (
     <Layout>
-      <div className="relative z-10 bg-teal-50">
+      <div className="relative z-10 bkg">
         <div className="w-full py-12 mt-20 md:mt-0  bg-teal-600 flex justify-center items-center gap-6">
           <h1 className="text-4xl text-white text-center">
             STAN 8, 18, 28, 38, 48 - Jednoiposoban

@@ -16,7 +16,7 @@ const ContactPage = () => {
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-        <div className="py-20 flex md:flex-row flex-col justify-center items-center relative z-10 bg-teal-50">
+        <div className="py-20 flex md:flex-row flex-col justify-center items-center relative z-10 bkg">
           <div className="md:w-[40%] px-10 md:px-0 text-2xl md:text-xl">
             <h2 className="text-teal-900 mb-6 text-3xl md:text-start text-center">
               Kontaktirajte nas danas
@@ -74,7 +74,7 @@ const ContactPage = () => {
                 required
                 className="mb-4 mr-4 w-full p-2 text-lg border border-solid border-gray-900 rounded"></textarea>
               <button
-                className="mr-4 w-full text-lg p-2 border-none bg-teal-900 cursor-pointer transition-all"
+                className="mr-4 w-full text-lg p-2 border-none bg-teal-900 text-white cursor-pointer transition-all"
                 type="submit">
                 POŠALJI
               </button>

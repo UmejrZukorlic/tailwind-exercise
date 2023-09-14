@@ -5,7 +5,7 @@ import photo from "../../assets/logoTest.png";
 const AboutPage = () => {
   return (
     <Layout>
-      <div className="flex flex-col items-center relative z-10 bg-teal-50">
+      <div className="flex flex-col items-center relative z-10 bkg">
         <div className="w-[80%] flex flex-col items-center py-12  mt-20 md:mt-0 ">
           <div className="w-full flex justify-center items-center gap-8 text-center">
             <span className="w-[30%] border-b border-solid border-b-gray-700 hidden md:block"></span>
@@ -100,7 +100,7 @@ const AboutPage = () => {
           </div>
         </div>
       </div>
-      <div className="py-20 text-center relative z-10 bg-teal-50">
+      <div className="py-20 text-center relative z-10 bkg">
         <h1 className=" text-3xl font-thin">
           Do danas, <span className="text-teal-600"> preko 4300</span> ljudi već
           živi u domovima koje smo im mi napravili.

@@ -9,7 +9,7 @@ const StanoviPage = () => {
   const { setUlaz } = useContext(StanContext);
   return (
     <Layout>
-      <div className="relative z-10 bg-teal-50">
+      <div className="relative z-10 bkg">
         <div className="py-20 flex lg:flex-row flex-col justify-center items-center gap-10">
           <div className="lg:w-[40%] mt-10 text-center">
             <h1 className="text-6xl mb-2">Stanovi u ponudi</h1>

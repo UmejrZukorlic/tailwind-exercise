@@ -5,7 +5,7 @@ import { BsBank } from "react-icons/bs";
 const Benefits = () => {
   return (
     <>
-      <div className="relatve pt-20 flex flex-col items-center bg-teal-50">
+      <div className="relatve pt-20 flex flex-col items-center bkg">
         <div className="w-[80%] flex flex-col md:flex-row gap-4 md:gap-0 justify-evenly items-center">
           <div className="w-28 aspect-square flex  justify-center items-center">
             <PiHandCoinsDuotone className="w-24 h-24" />

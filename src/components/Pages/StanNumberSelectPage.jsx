@@ -46,7 +46,7 @@ const StanNumberSelectPage = () => {
 
   return (
     <Layout>
-      <div className="relative z-10 bg-teal-50 flex flex-col items-center">
+      <div className="relative z-10 bkg flex flex-col items-center">
         <div className="w-full flex justify-center items-center bg-teal-300 py-12">
           <h1 className="text-white text-4xl bg-t">
             {ulaz && "ULAZ " + ulaz + " - "} {stanType?.toUpperCase()}{" "}

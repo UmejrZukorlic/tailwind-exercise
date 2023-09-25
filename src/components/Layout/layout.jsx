@@ -47,7 +47,7 @@ const Layout = (props) => {
       </div>
       {screenSize.width > 860 ? (
         <nav
-          className=" w-screen flex justify-between items-center xl:px-10 px-4 py-1 bg-teal-900 relative z-20"
+          className=" w-full flex justify-between items-center xl:px-10 px-4 py-1 bg-teal-900 relative z-20"
           id="nav">
           <img src={photo} alt="slika" className="max-h-24 mx-0" />
           <ul className="w-2/3 list-none  flex justify-center items-center  text-white text-lg font-mono">

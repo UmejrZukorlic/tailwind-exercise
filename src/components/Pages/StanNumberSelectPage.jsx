@@ -61,7 +61,7 @@ const StanNumberSelectPage = () => {
                 onClick={() => {
                   setFullStan(el);
                 }}>
-                <Link to="/stan">
+                <Link to="/apartment">
                   <h1 className="text-center">{el.name.toUpperCase()}</h1>
                   <p className="text-center pb-4">
                     POVRŠINA STANA:{" "}

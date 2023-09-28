@@ -52,7 +52,7 @@ const StanTypeSelection = () => {
             onClick={() => {
               setStanType(stan.name);
             }}>
-            <Link to="/stanovi-listing">
+            <Link to="/apartments-listing">
               <img src={stan.imgUrl} alt="stanovi" />
               <h2 className="text-center text-white text-lg py-2 font-light">
                 {stan.name}

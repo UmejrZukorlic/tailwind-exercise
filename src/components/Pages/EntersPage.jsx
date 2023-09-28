@@ -4,7 +4,7 @@ import Lamela from "../Sections/Lamela";
 import Iskustvo from "../Sections/Iskustvo";
 import Benefits from "../Sections/Benefits";
 
-const UlaziPage = () => {
+const EntersPage = () => {
   return (
     <Layout>
       <div className="relative z-10 mt-24 md:mt-0">
@@ -16,4 +16,4 @@ const UlaziPage = () => {
   );
 };
 
-export default UlaziPage;
+export default EntersPage;

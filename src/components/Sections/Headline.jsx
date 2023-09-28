@@ -28,7 +28,7 @@ const Headline = () => {
         <button
           className="py-4 px-8 md:w-4/12 w-full  border-0 bg-teal-700 text-white text-md font-body  transition-all hover:bg-teal-400"
           onClick={() => {
-            navigate("/stanovi");
+            navigate("/apartments");
           }}>
           STANOVI U PONUDI
         </button>

@@ -34,7 +34,7 @@ const StanoviPage = () => {
               onClick={() => {
                 setUlaz("A");
               }}>
-              <Link to="/ulazi/select-stan">
+              <Link to="/enters/select-apartment">
                 <img
                   src="https://cdn.pixabay.com/photo/2017/03/26/16/06/exzenterhaus-2175925_1280.jpg"
                   alt="sliak1"
@@ -50,7 +50,7 @@ const StanoviPage = () => {
               onClick={() => {
                 setUlaz("B");
               }}>
-              <Link to="/ulazi/select-stan">
+              <Link to="/enters/select-apartment">
                 <img
                   src="https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041_1280.jpg"
                   alt="slika 2"

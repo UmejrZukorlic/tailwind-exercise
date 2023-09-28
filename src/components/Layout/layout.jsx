@@ -69,7 +69,7 @@ const Layout = (props) => {
                 console.log(arrow);
               }}
               onDoubleClick={() => {
-                navigate("/stanovi");
+                navigate("/apartments");
               }}>
               <div className="flex items-center active:bg-teal-90  transition-all">
                 <p>STANOVI U PONUDI</p>
@@ -89,7 +89,7 @@ const Layout = (props) => {
                       onClick={() => {
                         setStanType("garsonjere i jednosobni stanovi");
                         setUlaz(false);
-                        navigate("/stanovi-listing");
+                        navigate("/apartments-listing");
                       }}>
                       Garsonjere i Jednosobni Stanovi
                     </li>
@@ -98,7 +98,7 @@ const Layout = (props) => {
                       onClick={() => {
                         setStanType("jednoiposobni stanovi");
                         setUlaz(false);
-                        navigate("/stanovi-listing");
+                        navigate("/apartments-listing");
                       }}>
                       Jednosobni Stanovi
                     </li>
@@ -107,7 +107,7 @@ const Layout = (props) => {
                       onClick={() => {
                         setStanType("dvosobni stanovi");
                         setUlaz(false);
-                        navigate("/stanovi-listing");
+                        navigate("/apartments-listing");
                       }}>
                       Dvosobni Stanovi
                     </li>
@@ -116,7 +116,7 @@ const Layout = (props) => {
                       onClick={() => {
                         setStanType("dvoiposobni stanovi");
                         setUlaz(false);
-                        navigate("/stanovi-listing");
+                        navigate("/apartments-listing");
                       }}>
                       Dvoiposobni Stanovi
                     </li>
@@ -125,7 +125,7 @@ const Layout = (props) => {
                       onClick={() => {
                         setStanType("trosobni stanovi");
                         setUlaz(false);
-                        navigate("/stanovi-listing");
+                        navigate("/apartments-listing");
                       }}>
                       Trosobni Stanovi
                     </li>
@@ -140,7 +140,7 @@ const Layout = (props) => {
                 setArrow(false);
               }}
               onDoubleClick={() => {
-                navigate("/ulazi");
+                navigate("/enters");
               }}>
               <div className=" flex items-center active:bg-teal-800 transition-all">
                 <p>ULAZI</p>
@@ -157,7 +157,7 @@ const Layout = (props) => {
                       className="cursor-pointer w-40 py-1 px-3 hover:bg-teal-800 transition-all"
                       onClick={() => {
                         setUlaz("A");
-                        navigate("/ulazi/select-stan");
+                        navigate("/enters/select-apartment");
                       }}>
                       ULAZ A{" "}
                     </li>
@@ -165,7 +165,7 @@ const Layout = (props) => {
                       className="cursor-pointer w-40 py-1 px-3 hover:bg-teal-800 transition-all"
                       onClick={() => {
                         setUlaz("B");
-                        navigate("/ulazi/select-stan");
+                        navigate("/enters/select-apartment");
                       }}>
                       ULAZ B{" "}
                     </li>
@@ -227,12 +227,12 @@ const Layout = (props) => {
                     O NAMA
                   </li>
                 </Link>
-                <Link to="/stanovi">
+                <Link to="/apartments">
                   <li className="cursor-pointer hover:text-teal-600 transition-all">
                     STANOVI U PONUDI
                   </li>
                 </Link>
-                <Link to="/ulazi">
+                <Link to="/enters">
                   <li className="cursor-pointer hover:text-teal-600 transition-all">
                     ULAZI
                   </li>
@@ -278,7 +278,7 @@ const Layout = (props) => {
               </li>
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <Link
-                  to="/stanovi"
+                  to="/apartments"
                   className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Stanovi u ponudi</p>
@@ -286,7 +286,7 @@ const Layout = (props) => {
               </li>
               <li className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <Link
-                  to="/ulazi"
+                  to="/enters"
                   className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
                   <p>Ulazi</p>
@@ -313,7 +313,7 @@ const Layout = (props) => {
                 onClick={() => {
                   setStanType("garsonjere i jednosobni stanovi");
                   setUlaz(false);
-                  navigate("/stanovi-listing");
+                  navigate("/apartments-listing");
                 }}>
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
@@ -324,7 +324,7 @@ const Layout = (props) => {
                 onClick={() => {
                   setStanType("jednoiposobni stanovi");
                   setUlaz(false);
-                  navigate("/stanovi-listing");
+                  navigate("/apartments-listing");
                 }}
                 className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
@@ -336,7 +336,7 @@ const Layout = (props) => {
                 onClick={() => {
                   setStanType("dvosobni stanovi");
                   setUlaz(false);
-                  navigate("/stanovi-listing");
+                  navigate("/apartments-listing");
                 }}
                 className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
@@ -348,7 +348,7 @@ const Layout = (props) => {
                 onClick={() => {
                   setStanType("dvoiposobni stanovi");
                   setUlaz(false);
-                  navigate("/stanovi-listing");
+                  navigate("/apartments-listing");
                 }}
                 className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
@@ -360,7 +360,7 @@ const Layout = (props) => {
                 onClick={() => {
                   setStanType("trosobni stanovi");
                   setUlaz(false);
-                  navigate("/stanovi-listing");
+                  navigate("/apartments-listing");
                 }}
                 className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all">
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
@@ -380,7 +380,7 @@ const Layout = (props) => {
                 className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all"
                 onClick={() => {
                   setUlaz("A");
-                  navigate("/ulazi/select-stan");
+                  navigate("/enters/select-apartment");
                 }}>
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />
@@ -391,7 +391,7 @@ const Layout = (props) => {
                 className="cursor-pointer pb-2 w-full border-b border-solid border-gray-400 hover:border-teal-600 transition-all"
                 onClick={() => {
                   setUlaz("B");
-                  navigate("/ulazi/select-stan");
+                  navigate("/enters/select-apartment");
                 }}>
                 <div className="cursor-pointer flex items-center gap-4 text-white no-underline text-lg hover:text-teal-600">
                   <IoIosArrowDropright />

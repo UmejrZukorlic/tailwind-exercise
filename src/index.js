@@ -7,7 +7,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ContactPage from "./components/Pages/ContactPage";
 import AboutPage from "./components/Pages/AboutPage";
 import StanoviPage from "./components/Pages/StanoviPage";
-import UlaziPage from "./components/Pages/UlaziPage";
+import EntersPage from "./components/Pages/EntersPage";
 import UlazStanSelectPage from "./components/Pages/UlazStanSelectPage";
 import Context from "./components/context";
 import StanNumberSelectPage from "./components/Pages/StanNumberSelectPage";
@@ -22,11 +22,17 @@ root.render(
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
-          <Route path="/stanovi" element={<StanoviPage />} />
-          <Route path="/ulazi" element={<UlaziPage />} />
-          <Route path="/ulazi/select-stan" element={<UlazStanSelectPage />} />
-          <Route path="/stanovi-listing" element={<StanNumberSelectPage />} />
-          <Route path="/stan" element={<StanPage />} />
+          <Route path="/apartments" element={<StanoviPage />} />
+          <Route path="/enters" element={<EntersPage />} />
+          <Route
+            path="/enters/select-apartment"
+            element={<UlazStanSelectPage />}
+          />
+          <Route
+            path="/apartments-listing"
+            element={<StanNumberSelectPage />}
+          />
+          <Route path="/apartment" element={<StanPage />} />
         </Routes>
       </Context>
     </BrowserRouter>
